@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rmegarbane@gmail.com
+	name = rami megarbane
